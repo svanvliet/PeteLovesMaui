@@ -33,7 +33,7 @@
                 HorizontalOptions="Center" />
 
             <Image Grid.Row="4"
-                Source="dotnet_bot.png"
+                Source="pk3.png"
                 SemanticProperties.Description="Cute dotnet bot waving hi to you!"
                 WidthRequest="300"
                 HeightRequest="372"
