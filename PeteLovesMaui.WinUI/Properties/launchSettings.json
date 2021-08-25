@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PeteLovesMaui.WinUI": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": false
+    }
+  }
+}
